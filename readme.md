@@ -1,0 +1,1 @@
+To run on startup, simply replace the project directory inside runPreventSleep,bat with the path to this directory, and palce the bat file into your shell:startup.
